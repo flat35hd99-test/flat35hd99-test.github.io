@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>CURP Usage on My New Hugo Site</title><link>http://example.org/docs/curp/</link><description>Recent content in CURP Usage on My New Hugo Site</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 17 Jun 2021 13:22:48 +0900</lastBuildDate><atom:link href="http://example.org/docs/curp/index.xml" rel="self" type="application/rss+xml"/><item><title>How to use CURP</title><link>http://example.org/docs/curp/lecture2/</link><pubDate>Thu, 17 Jun 2021 13:22:48 +0900</pubDate><guid>http://example.org/docs/curp/lecture2/</guid><description>h1 Heading 8-) # h2 Heading # h3 Heading # h4 Heading # h5 Heading # h6 Heading # katex
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>CURP Usage on My New Hugo Site</title><link>https://flat35hd99.github.io/docs/curp/</link><description>Recent content in CURP Usage on My New Hugo Site</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 17 Jun 2021 13:22:48 +0900</lastBuildDate><atom:link href="https://flat35hd99.github.io/docs/curp/index.xml" rel="self" type="application/rss+xml"/><item><title>How to use CURP</title><link>https://flat35hd99.github.io/docs/curp/lecture2/</link><pubDate>Thu, 17 Jun 2021 13:22:48 +0900</pubDate><guid>https://flat35hd99.github.io/docs/curp/lecture2/</guid><description>h1 Heading 8-) # h2 Heading # h3 Heading # h4 Heading # h5 Heading # h6 Heading # katex
 $h$
 $$ D = \frac{1}{2} $$
 Horizontal Rules # hogehoge
@@ -6,7 +6,7 @@ Typographic replacements # Enable typographer option to see result.
 (c) (C) (r) (R) (tm) (TM) (p) (P) +-
 test.. test&amp;hellip; test&amp;hellip;.. test?&amp;hellip;.. test!&amp;hellip;.
 !!!!!! ???? ,, &amp;ndash; &amp;mdash;
-&amp;ldquo;Smartypants, double quotes&amp;rdquo; and &amp;lsquo;single quotes&amp;rsquo;</description></item><item><title>What is CURP ?</title><link>http://example.org/docs/curp/lecture1/</link><pubDate>Thu, 17 Jun 2021 13:22:48 +0900</pubDate><guid>http://example.org/docs/curp/lecture1/</guid><description>h1 Heading 8-) # h2 Heading # h3 Heading # h4 Heading # h5 Heading # h6 Heading # katex
+&amp;ldquo;Smartypants, double quotes&amp;rdquo; and &amp;lsquo;single quotes&amp;rsquo;</description></item><item><title>What is CURP ?</title><link>https://flat35hd99.github.io/docs/curp/lecture1/</link><pubDate>Thu, 17 Jun 2021 13:22:48 +0900</pubDate><guid>https://flat35hd99.github.io/docs/curp/lecture1/</guid><description>h1 Heading 8-) # h2 Heading # h3 Heading # h4 Heading # h5 Heading # h6 Heading # katex
 $h$
 $$ D = \frac{1}{2} $$
 Horizontal Rules # hogehoge
