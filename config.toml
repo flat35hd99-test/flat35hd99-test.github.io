@@ -1,6 +1,7 @@
 baseURL = "https://flat35hd99.github.io/wiki-sample"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Yamato group wiki"
 theme = "book"
-relativeurls = true
-CanonifyURLs=true
+CanonifyURLs = true
+
+BookSearch = true
