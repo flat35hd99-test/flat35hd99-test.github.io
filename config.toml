@@ -3,3 +3,4 @@ languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "book"
 relativeurls = true
+CanonifyURLs=true
