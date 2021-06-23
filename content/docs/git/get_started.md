@@ -1,0 +1,36 @@
+---
+title: "Get Started"
+weight: 1
+---
+
+# Get started
+
+Git and GitHub are very usefull tool and web application. This page describe how to install Git and create GitHub account.
+
+## Create GitHub account and get student developer pack
+You can use Gitlab but I like GitHub because GitHub provides Student Development Pack that is the same as Enterprise plan for free.(!!!)
+
+1. Access [toppage](https://github.com/)
+2. Click "Sign up" button.
+3. fill in the blanks.
+   1. `Username` is published to internet. PLEASE take carefull. I use "flat35hd99" but someone is using full name. If you understand what you do, you can do it.
+   2. `Email address` is your Email address to get important notification from GitHub. you can change after sign up. **Note**: GitHub NERVER send you spam.
+   3. `Password` is password.
+   4. `Email preferences` is unchecked.
+   5. `Verify your account`, Click button to check you is not robot.
+   6. After check your input is correct, Click `Create Account`.
+   7. Open your Email(You input the address in step 3.2) box and verify by clicking button.
+
+## Install Git
+If your machine's OS is Windows, you can install Git via [GitHub Desktop](https://desktop.github.com/). You can install just Git via [official installer](https://git-scm.com/book/ja/v2/%E4%BD%BF%E3%81%84%E5%A7%8B%E3%82%81%E3%82%8B-Git%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB) but it has only command line interface(CLI) and install process have a little dificulity. I recommend you to use GUI if you are a beginner, so we use GitHub Desktop.
+
+1. Access [the site](https://desktop.github.com/), download installer file.
+2. Click installer file to install app.
+3. Click `Sign in to GitHub.com`. Browser will be appeared. Click `Authorize desktop`. This allow app to access your GitHub data.
+4. Click some button to return app.
+5. You meybe see `Configure Git` page in app. `Email` is configured github's sample email address, so Select your GitHub email address.
+6. Click Finish.
+
+Congraturation! You have finished. Start manage repository by Git!
+
+Would you like to use Command line Interface ? Reffer to [How to Set Path](../how_to_set_path) page.
