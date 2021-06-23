@@ -1,0 +1,17 @@
+baseURL: https://flat35hd99-test.github.io
+languageCode: en-us
+title: Yamato group wiki
+theme: book
+
+editGitInfo: true
+
+menu:
+  after:
+    - name: "GitHub"
+      url: "https://github.com/flat35hd99-test/flat35hd99-test.github.io"
+      wight: 80
+
+params:
+  BookTheme: auto
+  BookRepo: https://github.com/flat35hd99-test/flat35hd99-test.github.io
+  BookEditPath: edit/main
